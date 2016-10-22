@@ -6,7 +6,7 @@ It uses Webpack to bundle the application for development and production.
 
 How to use this -
 
-cd <project folder>
+cd 'project folder'
 
 git clone https://github.com/Nafis9740/MEAN-2-Starter
 
